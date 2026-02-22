@@ -22,3 +22,7 @@ Build. Refine. Repeat.
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=astralodyssey&theme=dark&hide_border=true)
+
+---
+
+![Snake animation](https://github.com/astralodyssey/astralodyssey/blob/output/github-contribution-grid-snake.svg)
