@@ -1,20 +1,26 @@
 # Yoo, This is your friendly neighborhood SATYAA 👋
 
-🚀 Web Developer in Progress  
-🔥 Building real-world projects  
-📍 India  
+Building focused, real-world web applications.  
+Frontend • Firebase • Problem Solving  
+India  
 
 ---
 
-## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
-- Firebase
-- Python
+## Current Work 
+Internship & Hackathon Projects  
+Data Structures & Algorithms  
 
 ---
 
-## 🧠 Current Focus
-- Hackathon Projects
-- Data Structures & Algorithms
+## Stack
+HTML  
+CSS  
+JavaScript  
+Firebase  
+Python  
+
+---
+
+## Philosophy
+Consistency > Motivation  
+Build. Improve. Repeat.
