@@ -5,18 +5,18 @@ India
 
 ---
 
-### Currently Building
+### Currently Building🔩
 Hackathons  
 DSA 
 
 ---
 
-### Stack
+### Stack🥷
 HTML • CSS • JavaScript • Firebase • Python  
 
 ---
 
-### Mindset
+### Mindset🧠
 Build. Refine. Repeat.
 
 ---
