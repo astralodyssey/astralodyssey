@@ -1,18 +1,18 @@
-# Yoo SATYAA This Side 👋
+# Yoo 👋 This is your friendly neighborhood Satyaa.
 
-Building focused, real-world web applications.  
-Frontend • Firebase • Problem Solving  
+Building cool stuff on the web.  
+Turning ideas into products.  
 India  
 
 ---
 
-## Current Work 
-Internship & Hackathon Projects  
-Data Structures & Algorithms  
+## ⚡ Currently Building  
+Hackathon projects  
+Sharpening Data Structures & Algorithms  
 
 ---
 
-## Stack
+## 🧠 Stack I Work With
 HTML  
 CSS  
 JavaScript  
@@ -21,6 +21,7 @@ Python
 
 ---
 
-## Philosophy
-Consistency > Motivation  
-Build. Improve. Repeat.
+## 🌓 Developer Mindset
+Stay consistent.  
+Build in public.  
+Improve every day.
