@@ -1,4 +1,4 @@
-# Yoo, This is your friendly neighborhood SATYAA 👋
+# Yoo SATYAA This Side 👋
 
 Building focused, real-world web applications.  
 Frontend • Firebase • Problem Solving  
