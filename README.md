@@ -25,4 +25,8 @@ Build. Refine. Repeat.
 
 ---
 
-![Snake animation](https://github.com/astralodyssey/astralodyssey/blob/output/github-contribution-grid-snake.svg)
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/astralodyssey/astralodyssey/output/github-contribution-grid-snake.svg" />
+</p>
