@@ -1,27 +1,24 @@
-# Yoo 👋 This is your friendly neighborhood Satyaa.
+## Yoo 👋 This is your friendly neighborhood Satyaa.
 
-Building cool stuff on the web.  
-Turning ideas into products.  
+Building cool things on the web.  
 India  
 
 ---
 
-## ⚡ Currently Building  
-Hackathon projects  
-Sharpening Data Structures & Algorithms  
+### Currently Building
+Hackathons  
+DSA 
 
 ---
 
-## 🧠 Stack I Work With
-HTML  
-CSS  
-JavaScript  
-Firebase  
-Python  
+### Stack
+HTML • CSS • JavaScript • Firebase • Python  
 
 ---
 
-## 🌓 Developer Mindset
-Stay consistent.  
-Build in public.  
-Improve every day.
+### Mindset
+Build. Refine. Repeat.
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=astralodyssey&theme=dark&hide_border=true)
