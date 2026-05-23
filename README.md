@@ -1,4 +1,4 @@
-## Yoo 👋 This is your friendly neighborhood Satyaa.
+## Yoo 👋 This is your friendly neighborhood ZEN.
 
 Building cool things on the web.  
 India  
